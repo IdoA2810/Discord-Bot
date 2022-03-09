@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import LeagueDataBase
 
-TOKEN = "OTMyNjQ4NDg0MjAzNTQ4NzEz.YeWClg.oUO7MG4DhW1a6usSPUxMJTqGy8I"
+TOKEN = ""
 
 DB = LeagueDataBase.ORM()
 client = commands.Bot(command_prefix='!')
